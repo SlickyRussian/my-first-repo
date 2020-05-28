@@ -1,2 +1,4 @@
 print("Ciao! Ciao!")
 print("Addio!")
+print("Buon pomeriggio!")
+print("Buona serata!")
